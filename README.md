@@ -129,7 +129,7 @@ The project is organized for scalability and maintainability. Here’s a breakdo
 1. **Clone the repository:**
   
    ```bash
-   git clone https://github.com/Niharika1008/Doctor-Appointment NextJS.git
+   git clone https://github.com/Niharika1008/Doctor-Appointment-NextJS.git
    cd Doctor-Appointment NextJS
    ```
 
