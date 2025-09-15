@@ -112,7 +112,7 @@ const RequestSuccess = async ({
 
         <NewAppointmentButton userId={userId} />
 
-        <p className="copyright">© 2024 CarePluse</p>
+        <p className="copyright">© 2025 CarePluse</p>
       </div>
     </div>
   );

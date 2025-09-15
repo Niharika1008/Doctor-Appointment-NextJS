@@ -1,8 +1,8 @@
-# HealthCare Doctor Appointment Featuring Admin Dashboard Notifications (Approve/Decline) - Next.js Web Application
+# Doctor Appointment Featuring Admin Dashboard Notifications (Approve/Decline) - Next.js Web Application
 
 This repository contains a Next.js application for managing healthcare appointments, patient data, and notifications. It features a user-friendly interface for patients and an admin dashboard for appointment management, with SMS notifications powered by Twilio and file storage using Appwrite.
 
-![Screenshot 2024-10-03 at 17 46 26](https://github.com/user-attachments/assets/cbf4b819-b692-4a40-b422-12638e169e9d) ![Screenshot 2024-10-03 at 18 46 10](https://github.com/user-attachments/assets/751efebd-2026-43bc-a18a-5aaab140228e) ![Screenshot 2024-10-03 at 18 46 23](https://github.com/user-attachments/assets/5498ff6f-91cd-403d-9806-3c4734106bed) ![Screenshot 2024-10-03 at 18 46 38](https://github.com/user-attachments/assets/b86553f6-a70b-446b-a40f-c1c17607d9de) ![Screenshot 2024-10-03 at 18 48 59](https://github.com/user-attachments/assets/46be502e-8f95-40eb-9009-83f3c1a09bcb) ![Screenshot 2024-10-03 at 18 49 57](https://github.com/user-attachments/assets/f07f1475-1038-485d-9e9d-01c5f17451ad) ![Screenshot 2024-10-03 at 18 56 32](https://github.com/user-attachments/assets/47b5d698-56b3-4f73-b8b5-d0c1636f1432) ![Screenshot 2024-10-04 at 03 55 09](https://github.com/user-attachments/assets/205cf346-88cd-42e2-9a4c-476cc09a3b71) ![Screenshot 2024-10-03 at 20 33 18](https://github.com/user-attachments/assets/45dcb2ed-30f0-4871-b6cc-647799541fe9) ![Screenshot 2024-10-03 at 20 33 49](https://github.com/user-attachments/assets/67e31616-959e-4cf3-9f8c-63717ef14b72)
+![Screenshot 2025-09-13 at 17 46 26](https://github.com/user-attachments/assets/cbf4b819-b692-4a40-b422-12638e169e9d) ![Screenshot 2025-09-13 at 18 46 10](https://github.com/user-attachments/assets/751efebd-2026-43bc-a18a-5aaab140228e) ![Screenshot 2025-09-13 at 18 46 23](https://github.com/user-attachments/assets/5498ff6f-91cd-403d-9806-3c4734106bed) ![Screenshot 2025-09-13 at 18 46 38](https://github.com/user-attachments/assets/b86553f6-a70b-446b-a40f-c1c17607d9de) ![Screenshot 2025-09-13 at 18 48 59](https://github.com/user-attachments/assets/46be502e-8f95-40eb-9009-83f3c1a09bcb) ![Screenshot 2025-09-13 at 18 49 57](https://github.com/user-attachments/assets/f07f1475-1038-485d-9e9d-01c5f17451ad) ![Screenshot 2025-09-13 at 18 56 32](https://github.com/user-attachments/assets/47b5d698-56b3-4f73-b8b5-d0c1636f1432) ![Screenshot 2025-10-04 at 03 55 09](https://github.com/user-attachments/assets/205cf346-88cd-42e2-9a4c-476cc09a3b71) ![Screenshot 2025-09-13 at 20 33 18](https://github.com/user-attachments/assets/45dcb2ed-30f0-4871-b6cc-647799541fe9) ![Screenshot 2025-09-13 at 20 33 49](https://github.com/user-attachments/assets/67e31616-959e-4cf3-9f8c-63717ef14b72)
 
 ---
 
@@ -19,7 +19,7 @@ It is a comprehensive solution for clinics and hospitals to manage patient data,
 - Performance/error monitoring with Sentry
 - Responsive design for all devices
 
-**Live-Demo:** [https://healthcare-arnob.vercel.app/](https://healthcare-arnob.vercel.app/)
+**Live-Demo:** [https://healthcare-Niharika1008.vercel.app/](https://healthcare-Niharika1008.vercel.app/)
 
 ---
 
@@ -129,8 +129,8 @@ The project is organized for scalability and maintainability. Here’s a breakdo
 1. **Clone the repository:**
   
    ```bash
-   git clone https://github.com/Niharika1008/HealthCare-Doctor-Appointment--NextJS.git
-   cd HealthCare-Doctor-Appointment--NextJS
+   git clone https://github.com/Niharika1008/Doctor-Appointment NextJS.git
+   cd Doctor-Appointment NextJS
    ```
 
 2. **Install dependencies:**
@@ -388,7 +388,6 @@ This project is designed for rapid development and deployment of healthcare mana
 
 Feel free to use this project repository and extend this project further!
 
-If you have any questions or want to share your work, reach out via GitHub or my portfolio at [https://arnob-mahmud.vercel.app/](https://arnob-mahmud.vercel.app/).
 
 **Enjoy building and learning!** 🚀
 

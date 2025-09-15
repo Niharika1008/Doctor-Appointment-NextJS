@@ -50,7 +50,7 @@ const Register = async ({ params: { userId } }: SearchParamProps) => {
           {/* Pass mergedUser for prefill/edit */}
           <RegisterForm user={mergedUser} patient={patient} />
 
-          <p className="copyright py-12">© 2024 CarePluse</p>
+          <p className="copyright py-12">© 2025 CarePluse</p>
         </div>
       </section>
 
